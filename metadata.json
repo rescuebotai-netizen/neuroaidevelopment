@@ -1,0 +1,8 @@
+{
+  "name": "Neuro AI Development",
+  "description": "AI-powered enterprise operating systems and intelligence infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
